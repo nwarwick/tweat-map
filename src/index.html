@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="./css/index.css" rel="stylesheet">
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.33.1/mapbox-gl.css' rel='stylesheet' />
+</head>
+
+<body>
+    <div id="main-container">
+        <div id='map'>
+        </div>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/3.7.1/firebase-app.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyC4tX-dhSGVoXYtES8LfOuEu_7dCsdElRg",
+            authDomain: "tweatmap-bf884.firebaseapp.com",
+            databaseURL: "https://tweatmap-bf884.firebaseio.com",
+            storageBucket: "tweatmap-bf884.appspot.com",
+            messagingSenderId: "1080329988007"
+        };
+        firebase.initializeApp(config);
+    </script>
+    <script src="./js/require.js"></script>
+    <script src="./js/index.js"></script>
+</body>
+
+</html>
