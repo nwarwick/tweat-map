@@ -1,13 +1,3 @@
-var Twitter = require(['twitter']);
-
-var client = new Twitter({
-    consumer_key: '7IFFoi0i2Flc7pA6cf7PdXdAM',
-    consumer_secret: 'P1jMNCZqQuTecNBZnkjCqXCNerZFDs2FFDVCrXYDepDmwxDEKD',
-    access_token_key: '842449503093321728-DyyM9VflvFgM3Fj1DNDeKe4nxdG4nOY',
-    access_token_secret: 'Y7OyVLHrYhaiOZxvFSUfoZWXPlr10u3QCe1qflaekVxW7'
-});
-
-
 var zoomLevel = 2;
 
 mapboxgl.accessToken = 'pk.eyJ1IjoibndhcndpY2siLCJhIjoiY2owYWR6NnZoMDA3NTMzb2F3aGQ2YXpvZyJ9.vQzH-hYOzRMurslNpAfiSg';
@@ -51,7 +41,7 @@ var map = new mapboxgl.Map({
 map.on('load', function() {
     map.addSource('tweets', {
         type: 'geojson',
-        data: '../data/output.json'
+        data: '../data/geoData.json'
     });
     map.addLayer({
         'id': 'tweets',
