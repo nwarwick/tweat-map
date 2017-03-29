@@ -1,0 +1,58 @@
+{"type":"FeatureCollection","features":[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.178,
+        22.2809
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -96.8839035,
+        33.09769821
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        9.81995845,
+        10.32056106
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.2938189,
+        38.01215978
+      ]
+    },
+    "properties": {
+      "tweet_body": null,
+      "handle": null
+    }
+  }
+]}
