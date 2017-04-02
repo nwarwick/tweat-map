@@ -8,36 +8,6 @@ var map = new mapboxgl.Map({
     zoom: zoomLevel // starting zoom
 });
 
-/*map.on('load', function() {
-    map.addSource('quakes', {
-        type: 'geojson',
-        data: '../data/query.json'
-    });
-    map.addLayer({
-        'id': 'quakes',
-        'type': 'circle',
-        'source': 'quakes',
-        'layout': {
-            'visibility': 'visible'
-        },
-        'paint': {
-            'circle-radius': {
-                property: 'mag',
-                stops: [
-                    [1, 0.5],
-                    [2, 1],
-                    [3, 2],
-                    [4, 4],
-                    [5, 8],
-                    [6, 16],
-                    [7, 32],
-                ]
-            },
-            'circle-color': 'rgb(0, 249, 124)'
-        },
-    });
-});*/
-
 map.on('load', function() {
     map.addSource('tweets', {
         type: 'geojson',
@@ -51,8 +21,35 @@ map.on('load', function() {
             'visibility': 'visible'
         },
         'paint': {
-            'circle-radius': 10,
+            'circle-radius': 5,
             'circle-color': 'rgb(0, 249, 124)'
         },
     });
+});
+
+// When a click event occurs near a place, open a popup at the location of
+// the feature, with description HTML from its properties.
+map.on('click', function(e) {
+    var features = map.queryRenderedFeatures(e.point, { layers: ['tweets'] });
+
+    if (!features.length) {
+        return;
+    }
+
+    var feature = features[0];
+
+    // Populate the popup and set its coordinates
+    // based on the feature found.
+    var popup = new mapboxgl.Popup()
+        .setLngLat(feature.geometry.coordinates)
+        .setHTML(feature.properties.text)
+        .addTo(map);
+});
+
+
+// Use the same approach as above to indicate that the symbols are clickable
+// by changing the cursor style to 'pointer'.
+map.on('mousemove', function(e) {
+    var features = map.queryRenderedFeatures(e.point, { layers: ['tweets'] });
+    map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
 });
