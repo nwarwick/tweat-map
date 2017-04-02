@@ -1,58 +1,1263 @@
-{"type":"FeatureCollection","features":[
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        114.178,
-        22.2809
-      ]
-    },
-    "properties": {
-      "tweet_body": null,
-      "handle": null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -96.8839035,
-        33.09769821
-      ]
-    },
-    "properties": {
-      "tweet_body": null,
-      "handle": null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        9.81995845,
-        10.32056106
-      ]
-    },
-    "properties": {
-      "tweet_body": null,
-      "handle": null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -121.2938189,
-        38.01215978
-      ]
-    },
-    "properties": {
-      "tweet_body": null,
-      "handle": null
-    }
-  }
-]}
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1178,
+                    4.6564
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒍ José Mujica\n⒎ Asamblea Nacional\n⒏ Game of Thrones\n⒐ Parlamento\n⒑ Felipe González\n\n2017/3/30 15:36 COT #trndnl https://t.co/cSmLh2Ssg4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.0212, -12.0436]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒍ #A2diasdeEGS\n⒎ Mijael\n⒏ Dictadura\n⒐ #GameOfThrones\n⒑ Karla Tarazona\n\n2017/3/30 15:36 PET #trndnl https://t.co/L3yjxLmNVJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.029,
+                    38.8991
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒍ Destiny 2\n⒎ #GameOfThrones\n⒏ #ThursdayThoughts\n⒐ War for the Planet of the Apes\n⒑ Palmer Luckey\n\n2017/3/30 15:36 CDT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-121.90112634,
+                    37.3326587
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "\"#Lannister #Targaryen, #Baratheon, #Stark, #Tyrell, they’re all just spokes on a wheel. This… https://t.co/V524FAFmPA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-118,
+                    33.6929
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Yea, let's totally catch up on #GoT - is this seat taken? #sit #couch #getcomfortable #bmd… https://t.co/gpD4AiKGhL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.40034072,
+                    25.07382345
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Waiting for GOT be like..... 😬\n#comiccave #GOT #TeamArya… https://t.co/XlqJX0IzGi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-99.1329,
+                    19.4319
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "📺 Este vídeo de @gameofthrones acaba de ocupar la 11ª posición en la lista de tendencias de YouTube en México https://t.co/TfymdGakfP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.7833, -23.5667]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Entre livros e ícones #livros #book #cruzdesaodamiao #gameofthrones #icones #icons… https://t.co/pkVWSUKI0K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-50.90422, -27.07044]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "GAME OF THRONES AGORA É MINHA VIDA❤❤❤❤"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.9287, -15.7785]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒍ Bruno Silva\n⒎ STJD\n⒏ Eduardo Cunha\n⒐ Game of Thrones\n⒑ Val Barreto\n\n2017/3/30 20:26 BRT #trndnl https://t.co/MffVmqH2oJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-99.1329,
+                    19.4319
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒍ Angélica Rivera\n⒎ #GameOfThrones\n⒏ Diego Novaretti\n⒐ Golpe de Estado\n⒑ Batgirl\n\n2017/3/30 17:30 CST #trndnl https://t.co/IN7801UqsL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7948,
+                    21.7866
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒈ #WIvPAK\n⒉ Berdych\n⒊ #GameofThrones\n⒋ Federer\n⒌ #TwitterUpdate\n\n2017/3/31 05:05 IST #trndnl https://t.co/LZ0lSnKin9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.1431217,
+                    33.0721683
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "@sydneycolexxx I want to get to know you some more it has nothing to with you being a porn star I just like you and think you are adorable"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.9287, -15.7785]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒍ #GoTS7\n⒎ PRESS PLAY TOMORROW\n⒏ STJD\n⒐ Aless\n⒑ Game of Thrones\n\n2017/3/30 20:50 BRT #trndnl https://t.co/MffVmqH2oJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-99.1329,
+                    19.4319
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒍ Angélica Rivera\n⒎ #GameOfThrones\n⒏ Diego Novaretti\n⒐ Golpe de Estado\n⒑ Batgirl\n\n2017/3/30 17:50 CST #trndnl https://t.co/IN7801UqsL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7948,
+                    21.7866
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒈ #WIvPAK\n⒉ Berdych\n⒊ #GameofThrones\n⒋ Federer\n⒌ #TwitterUpdate\n\n2017/3/31 05:26 IST #trndnl https://t.co/LZ0lSnKin9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-79.936944,
+                    32.785556
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "#tbt #throwbackthursday You don't know nothing abt #dogs if you know nothing abt #legends… https://t.co/ZbXj4CCXxJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.9287, -15.7785]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒍ Bruno Silva\n⒎ PRESS PLAY TOMORROW\n⒏ STJD\n⒐ Aless\n⒑ Game of Thrones\n\n2017/3/30 21:17 BRT #trndnl https://t.co/MffVmqH2oJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7948,
+                    21.7866
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒈ #WIvPAK\n⒉ Berdych\n⒊ #GameofThrones\n⒋ Federer\n⒌ #TwitterUpdate\n\n2017/3/31 05:47 IST #trndnl https://t.co/LZ0lSnKin9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4958,
+                    41.9031
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "'Game of Thrones' è appena entrato in tendenza occupando la posizione 7 in Italy #trndnl https://t.co/kqReG3rg90"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.8833, -27.3833]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "\"I keep trying, nothing's working I still wanna know if you're… https://t.co/ZUDb46hPJv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.9287, -15.7785]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "'Game of Thrones' just started trending with 53167 tweets. More trends at https://t.co/MffVmqH2oJ #trndnl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7948,
+                    21.7866
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒈ #WIvPAK\n⒉ Berdych\n⒊ #GameofThrones\n⒋ Federer\n⒌ #TwitterUpdate\n\n2017/3/31 06:08 IST #trndnl https://t.co/LZ0lSnKin9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4958,
+                    41.9031
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒍ Berdych\n⒎ Game of Thrones\n⒏ Nino\n⒐ Michele Caruso\n⒑ #loscherzoperfetto\n\n2017/3/31 02:32 CEST #trndnl https://t.co/1z2nx2qb8e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.3735, -34.6085]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "📺 Este vídeo de @gameofthrones acaba de ocupar la 19ª posición en la lista de tendencias de YouTube en Argentina https://t.co/GSY9aRFQHs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7948,
+                    21.7866
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒈ #WIvPAK\n⒉ Berdych\n⒊ #GameofThrones\n⒋ Federer\n⒌ #TwitterUpdate\n\n2017/3/31 06:28 IST #trndnl https://t.co/LZ0lSnKin9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4958,
+                    41.9031
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒍ Berdych\n⒎ Game of Thrones\n⒏ Nino\n⒐ Michele Caruso\n⒑ #loscherzoperfetto\n\n2017/3/31 02:54 CEST #trndnl https://t.co/1z2nx2qb8e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-77.029,
+                    38.8991
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "➌ April The Giraffe Live Feed\n➍ Game of Thrones season 7\n➎ Kevin Gates\n➏ The Boss Baby\n➐ Destiny 2 trailer\n➑ Destiny 2\n\n2017/3/30 20:04 CDT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.852075,
+                    40.69443
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "3 Heads of the Dragon? Maybe Ready for Sun and Sand definitely!Thanks JetBlue for getting us here.#gameofthrones… https://t.co/G0iVoD0KZm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-118.39853543,
+                    34.07353084
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Winter is coming... NOT. @gibsonguitar @olliecanada freehanddtla #spring2017 #LA #GOT @ Gibson… https://t.co/v01deHQe3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.7948,
+                    21.7866
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "⒈ #WIvPAK\n⒉ Berdych\n⒊ #GameofThrones\n⒋ Federer\n⒌ #TwitterUpdate\n\n2017/3/31 06:39 IST #trndnl https://t.co/LZ0lSnKin9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-121.90112634,
+                    37.3326587
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "\"Mhysa\" en el concierto de Game of Thrones!..🎶⚔🔥🐉 #dracarys #gameofthrones 🤓 @ SAP Center https://t.co/SpyuVT5Jao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.328357,
+                    47.614909
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Lannister @ Baltic Room https://t.co/sE6QfVwCt5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9833, -26.0333
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Game Of Thrones Season 7 it's on. @ Four ways https://t.co/bKyms76FIs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.1271,
+                    51.5063
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "📈 Top 10 ⒼⓄⓄⒼⓁⒺ Trends over the past 24 hours:\n\n➊ Game Of Thrones Season 7\n➋ Game of Thrones\n\n2017/3/31 17:04 BST"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6790695,
+                    55.7235985
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Отдыхаю перед тяжелым рабочим днем 👑 #gameofthrones #амедия #amedia #утро #пятница… https://t.co/6qPXmhIAWW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.6844,
+                    41.8369
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "In light of the new gameofthrones trailer here is a flashback two years ago when I created my… https://t.co/Ntv8elFALp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.99138889,
+                    37.38388889
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "#GoT #beautifulseville @ Real Alcázar de Sevilla https://t.co/KYyymhaufs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-36.55, -8.38333]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "#GOT  o inverno​ está chegando 🐺 @ Lajedo, Pernambuco https://t.co/PB5MiAJ4oB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Game of Thrones #got #gameofthrones #7 #ice - https://t.co/uDvIjcdwmQ #step #g #see #boy… https://t.co/QQcpguJKvG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.10884829,
+                    42.64110324
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Game of Thrones​ #kingslanding #dubrovnik @ King's Landing https://t.co/pjkKX9Fr8b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.95878333,
+                    54.9725775
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "When in Northern Ireland 😍 This was during the Game Of Thrones tour where we got to see so many… https://t.co/bofOXsWioz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.63845278,
+                    7.29696111
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "#got to #see a #traditional #SriLankan #dance #this #evening #firebreathing #dancing… https://t.co/3d336307W8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.108,
+                    42.64
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "The Lannisters send their regards🦁 #gameofthrones @ Walls of Dubrovnik https://t.co/d1u1aBlTPs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-43.0944, -22.8844]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "I keep trying, nothing's working \nI still wanna know, if you're… https://t.co/4VzUyXSALW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.1271,
+                    51.5063
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "➍ Gibraltar\n➎ 13 Reasons Why\n➏ Free Fire\n➐ Game Of Thrones Season 7\n➑ Game of Thrones\n➒ Karen Millen\n➓ Scott Eastwood\n\n2017/3/31 20:04 BST"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-123.12109067,
+                    49.2814375
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Vancouver trends now: Metro, Canucks, Robin, Sunshine List, Game of Thrones. https://t.co/zswyIteOkp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.55,
+                    50.85
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Early pressie from No1 daughter 💕👸🏻💡⚔️🎁#gameofthrones #birthdaycountdown #lightbox @ Arundel,… https://t.co/QJ8y1Ftb9M"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.54142,
+                    53.80369
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Far away from the world of tulle and pretty frocks is The Mountain from Game of Thrones doing… https://t.co/XOyDdYYRXm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.50421879,
+                    45.61544288
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Nem Jon Snow, nem Daenerys e muito menos Cersei, quem vai se apossar do trono de ~ferro~ sou eu.… https://t.co/hE8lGzmNPA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5477021,
+                    53.8898587
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Посмотрела первое полноценное промо 7-го сезона #GoT. Ору и начинаю потиху запасаться пледами потому что ЗИМА ПРИШЛА!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.294958,
+                    57.66845164
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Touch down #GOT #Lufthansa (@ Göteborg Landvetter Airport - @swedavia in Landvetter) https://t.co/r1OZDvvdlX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-118.3724,
+                    34.16177
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "\"Game of Thrones 🚽\"...Only one can win! 😳🎥🎭 #noaprilfoolsjoke #videos #comedy… https://t.co/PPI0mnQUCE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-103.460398,
+                    25.540505
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "La serie @GameOfThrones se estrenará a partir de este cuatro de abril por @Cinemax"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-123.12109067,
+                    49.2814375
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Vancouver trends now: Metro, Canucks, Sunshine List, Game of Thrones, Listen. https://t.co/zswyIteOkp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.7,
+                    10.2
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Eres fan de #GoT? Ah bueno... dejaré esto por aquí y me retiro lentamente... #AmaterasuGoT #got7… https://t.co/OLqkTWOXw5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-106.73773056,
+                    52.12137658
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Exclusive look at Game of Thrones season 7🐉 @ House Targaryen Dragon Breeders https://t.co/krf5cNSMs7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.175322,
+                    45.482055
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Ce la farò a vedere tutte le sei stagioni di Game of Thrones prima… https://t.co/y5vXEvyZjs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.28034913,
+                    31.50557138
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "#HeIsBack #JonSnow #GameOfThrones #GOT #Season7 \n🐉🐲🐺🐉🐲🐺 @ Game of Thrones https://t.co/HSrSOwrn6j"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.477548,
+                    46.317957
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "🏔🌲❄️#Moria #mine #doors #lotr #fantasy #winteriscoming #nightisdarkandfullofterrors #got #dusk… https://t.co/UsBZNh4Qoh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9833,
+                    45.8167
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "During shooting in Zagreb, Croatia \nZorbaih from game of thrones season 7\n#got7 \nالحمدلله دور… https://t.co/J5ynusPurY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-117.92,
+                    33.8025
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "\"Game of Thrones\" cosplayers. @ Anaheim Convention Center https://t.co/mOIi5M97tF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-123.12109067,
+                    49.2814375
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Vancouver trends now: Metro, Canucks, Game of Thrones, Listen, Kyle. https://t.co/zswyIteOkp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.50421879,
+                    45.61544288
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Massive plot twist in Game Of thrones. Turns out somehow Ramsay and… https://t.co/OeEpDIlvxo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.50421879,
+                    45.61544288
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Massive plot twist in Game Of thrones. Turns out somehow Ramsay and… https://t.co/tPdPD7NPtp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-101.03463078,
+                    22.1290169
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Terminando otra instalación...ni se nota que soy fan de #gameofthrones :3 jaja\n#soundcheck… https://t.co/r1JB2e9UIw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.55562678,
+                    6.20236346
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "GAME OF THRONES / TEMPORADAS DE LA 1 A LA 5 DVD $499,900.\nSINOPSIS\nBasada en la exitosa serie de… https://t.co/WZAJpsHHTQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.80186768,
+                    32.77434916
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "A true family. #fanexpodallas #gameofthrones #cosplay @ Kay Bailey Hutchison Convention Center… https://t.co/pHH2KWln3e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-5.99138889,
+                    37.38388889
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "#alcazar now the setting for #dorn  #got is an amazing piece of #moorish #architecture complete… https://t.co/lE1UrDZYmx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-112.1842268,
+                    33.5821349
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Chest and tri day... You know what's​ better than a gym that is almost empty? Nothing,… https://t.co/7tjOXufCml"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.967, -37.8167
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "You know April is going to be great with 👑Tegan &amp; 👑Sara + ⚔Jon Snow @teganandsara gameofthrones… https://t.co/QvE5KeyrgZ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.227436,
+                    37.4820674
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "I am the mother of unicorns #gameofthrones #got #poolparty #poolside #whereismydrink… https://t.co/5zICrqygyM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-123.12109067,
+                    49.2814375
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Vancouver trends now: Metro, Canucks, Game of Thrones, Listen, Davidson. https://t.co/zswyIteOkp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-106.417,
+                    23.2167
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "#Repost ronaldo_conforti with @repostapp\n・・・\n#Tini#Stoessel#got#me#started#tour @ Ciudad… https://t.co/aDNJDg5lw1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-106.417,
+                    23.2167
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "#Repost ronaldo_conforti with @repostapp\n・・・\n#Tini#Stoessel#got#me#started#tour @ Ciudad… https://t.co/UpHKjIYdoq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3667, -26.2333
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "regrann from @mcgregor_ufc  -  Eating clean as always 🇮🇪🍀👑 📌Game of Thrones Conor Mcgregor T… https://t.co/825VOYJDQo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-117.92,
+                    33.8025
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "You know nothing Jon Snow. George knows all! @ Anaheim Convention Center https://t.co/SVqG8h2DOa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-80.93732714,
+                    34.08407609
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Don't talk junk.... #got'em @ Texas Roadhouse - Columbia (Two Notch… https://t.co/siFOCSnWBA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-123.1091891,
+                    49.27804072
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "First time in the TD suite for the Game of Thrones Concert!… https://t.co/pTfY5r7ikh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-80.14455903,
+                    26.11897411
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "The only true wisdom is knowing you know nothing. \n.\n\n.\n\n.\n\n.\n#ru_bnw_17 taken for 24hourproject… https://t.co/eihOG8EFNm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-123.1091891,
+                    49.27804072
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "First time in the TD suite for the Game of Thrones Concert!… https://t.co/pTfY5r7ikh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.13770741,
+                    51.50981406
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Heavenly food! 😍 #gaucho #got #it #right #weekend #dinner #london #travel #photo #diary… https://t.co/9tf4pDiy9s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-1.98481919,
+                    43.32318186
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "The winter is coming  💀\n#happysunday \n#gameofthrones @ The Basque… https://t.co/Rt4cIN7z3L"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-111.631,
+                    35.1992
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "We have an obsession 😂😸 #gameofthrones @ Flagstaff, Arizona https://t.co/l8r2yiKUOW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-117.91825,
+                    33.79874
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "When your at WonderCon and spot the author for Game of Thrones in… https://t.co/MfHX5Psng2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-100.28513432,
+                    25.68051852
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "The north Remembers... #kingofthenorth #jonsnow #gameofthrones #palnorte2017 @ Pa'l Norte https://t.co/ghKhsqu4iz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7333,
+                    51.05
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "I got to hang out with the one and only @dimitrivegas in Berlin today in his Jon Snow finery !!… https://t.co/qcEkuJGiiA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-86.76100036,
+                    21.10846138
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Sunbathing, Reading Game of Thrones and Homemade, challenging the  Caribbean Sea's waves... https://t.co/F9BTvXSGww https://t.co/3eteGTMhXO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-109.24595406,
+                    45.20189611
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "Pretzel bites, Beer cheese, Czech style Pilsner, and Game of Thrones! Best Sunday afternoon… https://t.co/tx1zdu7vVC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.677,
+                    35.277
+                ]
+            },
+            "properties": {
+                "tweet_body": null,
+                "handle": null,
+                "text": "#WrestleMania - Drinking a Game of Thrones - Take The Black Stout @ Casa de Hammer - https://t.co/lOqcx8SbMB #photo"
+            }
+        }
+    ]
+}
