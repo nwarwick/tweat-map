@@ -5,7 +5,12 @@ var map = new mapboxgl.Map({
     container: 'map', // container id
     style: 'mapbox://styles/mapbox/dark-v9', //stylesheet location
     center: [0, 0], // starting position
-    zoom: zoomLevel // starting zoom
+    zoom: zoomLevel, // starting zoom
+    renderWorldCopies: false,
+    maxBounds: [
+        [-180, -85],
+        [180, 85]
+    ]
 });
 
 map.on('load', function() {
